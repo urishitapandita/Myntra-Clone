@@ -1,5 +1,9 @@
 # Myntra-Clone
-Built a UI clone of the Myntra application using HTML5 and CSS3.
+Developed a high-fidelity clone of Myntra, a leading e-commerce platform, using HTML and CSS.
+
+Leveraged the latest web technologies such as HTML5 and CSS3 to create a visually appealing and interactive user interface that closely resembles the original website.
+
+Implemented a responsive design strategy, ensuring optimal user experience across various devices and screen sizes. Employed CSS media queries and flexible layout techniques to adapt the website's layout and components seamlessly.
 
 # Screenshot
 
